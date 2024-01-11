@@ -34,12 +34,13 @@ Version control is a system that tracks changes to files over time, maintaining 
 
 **Explain the difference between git fetch and git pull,**
 
-<git fetch:>
+>git fetch:
  command is used to retrieve changes from a remote repository to your local repository. It fetches the latest commits from the remote but does not automatically merge them into your working branch.
 
 
-<git pull:>
+>git pull:
  command on the other hand, is a combination of git fetch and the merge operation. It fetches the changes from the remote repository and automatically merges them into the current branch.
+
 
 
 **Explain in simple terms git cherry-pick and the command for it**
